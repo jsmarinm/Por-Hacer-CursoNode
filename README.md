@@ -5,5 +5,5 @@ Este es el ejercicio del curso
 Instalar los paquetes de nodejs
 
 ```
-nop install
+npm install
 ```
